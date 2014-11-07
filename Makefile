@@ -7,7 +7,7 @@
 TARGET = forktest
 
 # C source code
-SRC = $(TARGET).c
+SRC = $(TARGET).c spawn.c
 
 # CPP source code
 CXXSRC = 

@@ -30,3 +30,4 @@ objs
 *.hex
 
 forktest
+test-*
